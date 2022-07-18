@@ -17,4 +17,10 @@ AraigumaOS New Leaf is Linux Distro on Arch kernel with additional
 functions and glitch fixes. Available builds can be seen on main website. 
 ```
 
+**Wallpaper Fetcher Rewrite**
+```
+Wallpaper Fetcher Rewrite, a.k.a. Wallpaper Fetcher for AraigumaOS 4.0 is a program for AraigumaOS Horizon that fetches wallpapers from websites. Currently in beta
+https://github.com/DellOptiplex9020/Wallpaper-Fetcher-for-AraigumaOS
+```
+
 www.araigumawindowsmods.com
