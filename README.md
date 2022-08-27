@@ -1,5 +1,5 @@
-# AraigumaOS Horizon / Horizon Redux / New Leaf / Wallpaper Fetcher Rewrite Issues Page
-A github page for reporting AraigumaOS issues
+# AraigumaOS Horizon (HorizonOG) / HorizonPlus / New Leaf and Wallpaper Fetcher Rewrite Page
+A github page for AraigumaOS
 
 https://github.com/FigmaObsession/araigumaos/issues
 
