@@ -24,14 +24,4 @@ Wallpaper Fetcher Rewrite, a.k.a. Wallpaper Fetcher for AraigumaOS 4.0 is a prog
 ```
 https://github.com/DellOptiplex9020/Wallpaper-Fetcher-for-AraigumaOS
 
-## Patches
-
-https://github.com/Aik-hex/AraigumaOS_NVIDIASupport 
-
-https://github.com/bytexd23-alt/nvidia-driv-sup/releases
-
-https://github.com/minegame2021/araigumaos-amd-gpu-driver
-
-(going to be featured in horizon redux if possible)
-
 www.araigumawindowsmods.com
